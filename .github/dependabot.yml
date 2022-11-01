@@ -5,7 +5,7 @@ updates:
     schedule:
       interval: daily
       time: "04:00"
-      timezone: "Europe/Berlin"
+      timezone: "America/Vancouver"
     labels:
       - "cookiecutter"
       - "dependencies"
@@ -16,7 +16,7 @@ updates:
     schedule:
       interval: daily
       time: "04:00"
-      timezone: "Europe/Berlin"
+      timezone: "America/Vancouver"
     labels:
       - "cookiecutter"
       - "dependencies"
@@ -27,7 +27,7 @@ updates:
     schedule:
       interval: daily
       time: "04:00"
-      timezone: "Europe/Berlin"
+      timezone: "America/Vancouver"
     labels:
       - "cookiecutter"
       - "dependencies"
